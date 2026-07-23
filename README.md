@@ -28,5 +28,20 @@ Bangla Fonts/
 ## Notes
 
 - Font source archives (`*.zip`) are not tracked in this repository.
-- These fonts are collected from various sources and are provided for
-  convenience; all rights remain with their respective designers and foundries.
+
+## Disclaimer
+
+This is an unofficial, community archive gathered from various sources and
+provided as-is, for convenience only. **No license is granted by this
+repository.** Copyright in every font remains with its respective designer,
+author, or foundry. Some of the included fonts are proprietary. Nothing here
+should be taken as permission to use, modify, or redistribute any font — please
+refer to each font's own license and obtain rights from its owner where
+required. See [Removal / takedown requests](#removal--takedown-requests) above
+to have a font taken down.
+
+## Credits
+
+- Some font files are sourced from [@mistu01](https://github.com/mistu01).
+- And, above all, the original authors, designers, and foundries who created
+  these typefaces — full credit and all rights belong to them.
