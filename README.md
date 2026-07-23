@@ -1,8 +1,8 @@
 # Bangla Fonts
 
 A curated collection of Bangla (Bengali) fonts, organized into one directory per
-typeface family for easy browsing and installation. It currently holds **205 font
-families** across **441 font files** — spanning modern Unicode fonts, display and
+typeface family for easy browsing and installation. It currently holds **204 font
+families** across **438 font files** — spanning modern Unicode fonts, display and
 decorative faces, and older legacy (Bijoy-style) fonts.
 
 ## Removal / takedown requests
